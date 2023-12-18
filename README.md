@@ -1,5 +1,6 @@
 # 初始化Git
 
+> git远程连接
 ```js
 git init // 初始化
 git add . // 添加到暂存区
