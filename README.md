@@ -1,7 +1,6 @@
 # 初始化Git
 
-
-### Git远程连接流程
+> git远程连接
 ```js
 git init // 初始化
 git add . // 添加到暂存区
